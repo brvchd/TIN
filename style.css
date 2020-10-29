@@ -1,18 +1,14 @@
-a:link{
-    text-decoration: none;
-}
-h1{
+form{
+    font-size: 125%;
     font-style: oblique;
-    font-size: larger;
 }
-p{
-    font-style: initial;
-    font-size: large;
+#passwordLabel
+{
+    color:chocolate;
 }
-table,td{
-    border: 1px solid black;
-    border-collapse: collapse;
+#userLabel{
+    color:pink;
 }
-ul{
-    list-style-type: lower-roman;
+.labelGroup{
+    color: purple;
 }

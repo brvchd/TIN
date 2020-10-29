@@ -1,0 +1,18 @@
+a:link{
+    text-decoration: none;
+}
+h1{
+    font-style: oblique;
+    font-size: larger;
+}
+p{
+    font-style: initial;
+    font-size: large;
+}
+table,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+ul{
+    list-style-type: lower-roman;
+}

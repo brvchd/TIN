@@ -1,14 +1,12 @@
-form{
-    font-size: 125%;
-    font-style: oblique;
+h3,p{
+    clear: both;
 }
-#passwordLabel
-{
-    color:red;
+#rose1{
+    float:right;
 }
-#userLabel{
-    color:red;
+#rose2{
+    float:left;
 }
-.labelGroup{
-    color: purple;
+#rose3{
+    float:none;
 }

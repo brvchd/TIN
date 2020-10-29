@@ -4,10 +4,10 @@ form{
 }
 #passwordLabel
 {
-    color:chocolate;
+    color:red;
 }
 #userLabel{
-    color:pink;
+    color:red;
 }
 .labelGroup{
     color: purple;

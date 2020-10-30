@@ -1,5 +1,5 @@
 .container {
-    background-color:rgb(143,188,143);
+    background-color:rgba(143,188,143,0.9);
     margin-left: 20%;
     margin-right: 20%;
     display: flex;
@@ -10,6 +10,7 @@
 
 body {
     background: url("pozor.png"),0%,0%;
+    background-attachment: fixed;
 }
 
 .banner {

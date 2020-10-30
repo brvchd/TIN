@@ -1,12 +1,52 @@
-h3,p{
-    clear: both;
+.container {
+    background-color:rgb(143,188,143);
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    justify-content: space-between;
+    font-style: oblique;
+    font-size: large;
 }
-#rose1{
-    float:right;
+
+body {
+    background: url("pozor.png"),0%,0%;
 }
-#rose2{
-    float:left;
+
+.banner {
+    background: url("blackrainfrog.jpg") no-repeat 100% 50%;
+    width: 100%;
+    margin-right: 11%;
+    margin-left: 11%;
+    height: 350px;
+    border: 3px solid black;
 }
-#rose3{
-    float:none;
+
+header {
+    font-size: 25px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-left: 12%;
+}
+
+article {
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-top: 10px;
+    padding: 20px;
+    border: 1px solid black;
+    background: rgb(107,142,35);
+
+}
+
+article h2 {
+    color: black;
+    border-bottom: 3px dashed black;
+}
+
+.container:last-child article {
+    margin-bottom: 50px;
+}
+
+a:hover {
+    color: rgb(63,224,208);
 }
